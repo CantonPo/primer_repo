@@ -27,5 +27,10 @@ root((HTML))
             span
             div
         ((eventos))
-
+            onecock
+            onechange
+        ((atributos))
+        id
+        class
+        src
 ```
